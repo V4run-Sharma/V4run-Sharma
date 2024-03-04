@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v4run-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="v4run-sharma" /> </p>
 
-- 🔭 I’m currently working on a [Real Estate Listing Site](https://github.com/V4run-Sharma/ghar)
-
-- 🌱 I’m currently learning **Rust Lang**
+- 🔭 I’m currently working on a [Discord Clone](https://github.com/V4run-Sharma/viscord)
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
