@@ -1,5 +1,5 @@
 # 💫 Hi there!
-🔭 I’m currently working on a Discord Clone<br><br>👯 I’m looking to collaborate on full stack projects<br><br>👨‍💻 All of my projects are available at https://varunsharma-portfolio.vercel.app<br><br>💬 Ask me about mern stack<br><br>📫 How to reach me sharmavarun.1912@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1SgzeE0uLuNJjLv-fK6MYWE_TTGknrI7F/view?usp=drivesdk<br><br>⚡ Fun fact I play the piano!
+👯 I’m looking to collaborate on full stack projects<br><br>👨‍💻 All of my projects are available at https://varunsharma-portfolio.vercel.app<br><br>💬 Ask me about mern stack<br><br>📫 How to reach me sharmavarun.1912@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1SgzeE0uLuNJjLv-fK6MYWE_TTGknrI7F/view?usp=drivesdk<br><br>⚡ Fun fact I play the piano!
 
 
 ## 🌐 Socials:
