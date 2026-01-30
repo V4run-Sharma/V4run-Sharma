@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v4run-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="v4run-sharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v4run-sharma" alt="v4run-sharma" /></a> </p>
-
 - 🔭 I’m currently working at [Blibli.com](https://www.blibli.com/)
 
 - 🌱 I’m currently learning **Java based backend systems**
